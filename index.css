@@ -395,3 +395,27 @@ html, body {
   padding: 0;
 }
 
+/* ---------  */
+    background-image: linear-gradient(to right, #0066ff, #00a1ff, #00c6eb, #00e087, #a8eb12);
+
+    border: 1px solid black;
+
+    color: white;
+
+    font-family: Arial;
+
+    font-size: small;
+
+    text-decoration: none;
+
+    padding: 3px;
+
+}
+
+.techly360{
+
+    background-image: linear-gradient(to right, #0066ff, #00a1ff, #00c6eb, #00e087, #a8eb12);
+
+    color: white;
+
+}
