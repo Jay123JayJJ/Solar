@@ -31,7 +31,7 @@
 /* ----------------------------------------------------  */
 
 /* Responsive Code for Mobile View */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 370px) {
   .four_zero_four_bg {
     height: 300px; /* Adjust the height for smaller screens */
   }
