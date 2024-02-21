@@ -38,6 +38,7 @@
   .four_zero_four_bg h1,
   .four_zero_four_bg h3 {
     font-size: 24px; /* Reduce the font size for smaller screens */
+	  color: blue;
   }
   .link_404 {
     padding: 8px 16px; /* Adjust the padding for smaller screens */
